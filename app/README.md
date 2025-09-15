@@ -1,5 +1,5 @@
 # Nome do módulo #
-Descreve a visão de negócios e as tecnologias utilizadas.
+Descrever a visão de negócios e as tecnologias utilizadas. 
 
 ## Ambiente de Desenvolvimento #
 
